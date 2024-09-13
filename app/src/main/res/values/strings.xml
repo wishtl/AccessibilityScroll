@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">autoscroll</string>
+    <string name="use_swipe">使用模拟滑动</string>
+</resources>
